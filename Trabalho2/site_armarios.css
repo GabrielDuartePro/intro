@@ -1,0 +1,63 @@
+.blocosTitulo{
+    text-align: center;
+}
+body{
+    background-color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#titulo{
+    text-align: center;
+    border: solid black 3px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.armarios{
+    width: 200px; height: 300px;
+    border: solid black 3px;
+    background-color: cornflowerblue;
+}
+.tipo1{
+    background-color: green;
+    text-align: center;
+    border-block-end: solid black 2px;
+}
+.tipo2{
+    background-color: red;
+    text-align: center;
+    border-block-end: solid black 2px;
+}
+.tipo3{
+    background-color: darkgray;
+    text-align: center;
+    border-block-end: solid black 2px;
+}
+.trava{
+    border: black 3px solid;
+    background-color: rgba(0, 0, 0, 0.432);
+    width: 20px;
+    height: 20px;
+    border-radius: 40%;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-bottom: -90px;
+}
+.puxador {
+    float: left;
+    width: 15px;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 15px;
+    background: black;
+} 
+.linha {
+    margin-top: -170px;
+}
+hr {
+    border-color: black;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    float: left;
+}
