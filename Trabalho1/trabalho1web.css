@@ -43,3 +43,15 @@ body{
     border: 5px solid rgb(50, 51, 50);
     width: 200px;
 }
+a:link{
+    color: blue;
+  }
+  a:active{
+      color: yellow;
+  }
+  a:hover{
+      color: lightblue;
+  }
+  a:visited{
+      color: royalblue;
+  }

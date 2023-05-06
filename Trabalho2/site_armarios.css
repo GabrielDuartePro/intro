@@ -61,3 +61,15 @@ hr {
     justify-content: center;
     float: left;
 }
+a:link{
+    color: blue;
+  }
+  a:active{
+      color: yellow;
+  }
+  a:hover{
+      color: lightblue;
+  }
+  a:visited{
+      color: royalblue;
+  }
