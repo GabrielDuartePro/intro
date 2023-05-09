@@ -46,12 +46,12 @@ body{
 a:link{
     color: blue;
   }
-  a:active{
-      color: yellow;
+  a:visited{
+      color: royalblue;
   }
   a:hover{
       color: lightblue;
   }
-  a:visited{
-      color: royalblue;
+  a:active{
+      color: yellow;
   }
