@@ -15,6 +15,9 @@ body{
     width: 200px; height: 300px;
     border: solid black 3px;
     background-color: cornflowerblue;
+    justify-content: center;
+    position: relative;
+    margin: 3px 3px 3px 3px;
 }
 .tipo1{
     background-color: green;
@@ -48,7 +51,7 @@ body{
     margin-top: 50px;
     margin-left: 15px;
     background: black;
-} 
+}
 .linha {
     margin-top: -170px;
 }
@@ -59,17 +62,20 @@ hr {
 .container {
     display: flex;
     justify-content: center;
-    float: left;
+}
+div{
+    text-align: center;
+    font-size: 20px;
 }
 a:link{
-    color: blue;
-  }
-  a:visited{
-      color: royalblue;
-  }
-  a:hover{
-      color: lightblue;
-  }
-  a:active{
-      color: yellow;
-  }
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: lightblue;
+}
+a:active{
+    color: yellow;
+}
