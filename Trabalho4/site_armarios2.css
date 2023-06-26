@@ -60,3 +60,15 @@ body{
     margin-right: 15px;
     margin-left: 15px;
 }
+a:link{
+    color: blue;
+}
+a:visited{
+    color: royalblue;
+}
+a:hover{
+    color: lightblue;
+}
+a:active{
+    color: yellow;
+}
