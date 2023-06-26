@@ -1,0 +1,183 @@
+#corpo {
+    border: 2px solid black;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(192, 180, 180);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tela1 {
+    border: 2px solid black;
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: linear-gradient(to right, #e8e8e8, #c1c1c1);
+}
+
+#tela2 {
+    background-color: rgb(39, 35, 35);
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin-top: 70px;
+    margin-left: 55px;
+}
+
+.linha {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.botao {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(50, 53, 52);
+    border: 2px solid black;
+    width: 65px;
+    height: 40px;
+    font-size: 20px;
+    color: #fffcfc;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.botao-branco {
+    background-color: white;
+    width: 75px;
+    height: 40px;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.botao-corrige {
+    background-color: red;
+    width: 75px;
+    height: 40px;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.botao-confirma {
+    background-color: green;
+    width: 80px;
+    height: 50px;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.quadrado {
+    width: 30px;
+    height: 50px;
+    border: 2px solid black;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center
+}
+
+#etapa1 {
+    margin: 10px;
+}
+
+#etapa2 {
+    position: relative;
+    display: none;
+    margin: 10px;
+}
+
+#etapa3 {
+
+    text-align: center;
+    top: 90px;
+    margin-right: 0px;
+    margin-left: 0px;
+    position: relative;
+    display: block;
+}
+
+#final {
+    margin-top: 10px;
+}
+
+#imagemCandidato {
+    border: 2px solid black;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+#obs{
+    border: 1px solid black;
+    text-align: center;
+    /*margin-right: 550px;
+    margin-left: 550px;*/
+    position: relative;
+    display: block;
+}
+
+.Fim{
+    font-size: 100px;
+    top: 20px;
+    margin-left: 62px;
+    position: relative;
+    display: block;
+}
+
+.Nulo{
+    font-size: 30px;
+    top: 100px;
+    text-align: center;
+    align-items: flex-end;
+    margin-left: 20px;
+    position: relative;
+    display: flex;
+}
+
+a.fim {
+    text-align: center;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    background-color: green;
+    left: 12px;
+    width: 80px;
+    height: 40px;
+    font-size: 15px;
+    position: relative;
+    cursor: pointer;
+}
+
+a.branco {
+    background-color: white;
+    border: 1px solid black;
+    text-decoration: none;
+    left: -30px;
+    width: 75px;
+    height: 40px;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+a.corrige {
+    background-color: red;
+    border: 1px solid black;
+    text-decoration: none;
+    left: -30px;
+    width: 75px;
+    height: 40px;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}

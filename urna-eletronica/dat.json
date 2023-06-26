@@ -1,0 +1,64 @@
+{
+    "candidatos": [
+      {
+        "numero": "01",
+        "nome": "Fernando Souza",
+        "partido": "PSOL",
+        "imagem": "candidato1.jpg"
+      },
+      {
+        "numero": "02",
+        "nome": "Eduardo Francisco",
+        "partido": "PSDB",
+        "imagem": "candidato2.jpg"
+      },
+      {
+        "numero": "03",
+        "nome": "Issac Vasconcelos",
+        "partido": "AB",
+        "imagem": "candidato3.jpg"
+      },
+      {
+        "numero": "04",
+        "nome": "Victor José",
+        "partido": "CD",
+        "imagem": "candidato4.jpg"
+      },
+      {
+        "numero": "05",
+        "nome": "João da Silva",
+        "partido": "EF",
+        "imagem": "candidato5.jpg"
+      },
+      {
+        "numero": "06",
+        "nome": "Roger Santos",
+        "partido": "GH",
+        "imagem": "candidato6.jpg"
+      },
+      {
+        "numero": "07",
+        "nome": "Rogério Ítalo",
+        "partido": "IJ",
+        "imagem": "candidato7.jpg"
+      },
+      {
+        "numero": "08",
+        "nome": "João Costa",
+        "partido": "KL",
+        "imagem": "candidato8.jpg"
+      },
+      {
+        "numero": "09",
+        "nome": "Paulo Whindersson",
+        "partido": "MN",
+        "imagem": "candidato9.jpg"
+      },
+      {
+        "numero": "10",
+        "nome": "Neto Nunes",
+        "partido": "OP",
+        "imagem": "candidato10.jpg"
+      }
+    ]
+}
