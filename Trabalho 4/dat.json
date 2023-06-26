@@ -1,0 +1,64 @@
+{
+    "armarios": [
+        {
+            "numero": 1,
+            "tipo": "Desocupado"
+        },
+        {
+            "numero": 2,
+            "tipo": "Ocupado"
+        },
+        {
+            "numero": 3,
+            "tipo": "Manutenção"
+        },
+        {
+            "numero": 4,
+            "tipo": "Desocupado"
+        },
+        {
+            "numero": 5,
+            "tipo": "Ocupado"
+        },
+        {
+            "numero": 6,
+            "tipo": "Manutenção"
+        },
+        {
+            "numero": 7,
+            "tipo": "Desocupado"
+        },
+        {
+            "numero": 8,
+            "tipo": "Ocupado"
+        },
+        {
+            "numero": 9,
+            "tipo": "Manutenção"
+        },
+        {
+            "numero": 10,
+            "tipo": "Desocupado"
+        },
+        {
+            "numero": 11,
+            "tipo": "Ocupado"
+        },
+        {
+            "numero": 12,
+            "tipo": "Manutenção"
+        },
+        {
+            "numero": 13,
+            "tipo": "Desocupado"
+        },
+        {
+            "numero": 14,
+            "tipo": "Ocupado"
+        },
+        {
+            "numero": 15,
+            "tipo": "Ocupado"
+        }
+    ]
+}
